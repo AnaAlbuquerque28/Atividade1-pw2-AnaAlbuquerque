@@ -1,0 +1,19 @@
+{
+  "name": "atividade1",
+  "version": "1.0.0",
+  "description": "Atividade de pw2, criar um projeto que devera no mínimo realizar cadastro, leitura, alteração e gravação de dados.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "atividade1",
+    "pw2",
+    "Etec"
+  ],
+  "author": "ANA BEATRIZ BEZERRA DE ALBUQUERQUE",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
